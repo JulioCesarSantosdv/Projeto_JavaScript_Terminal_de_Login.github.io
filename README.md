@@ -15,8 +15,8 @@ Para interagir como o projeto a senha é: 01234567</strong>
 + Uso de Constante
 + Uso do método document.getElementById
 + Uso da propriedade location.href
++ Uso de Flexbox Cards com CSS
 + Como Navegar entre a estrutura de diretórios
-
 
 <h2>Linguagens Utilizadas</h2>
 <table>
