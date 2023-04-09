@@ -1,4 +1,4 @@
-<h1>Projeto JavaScript -Terminal de Login</h1>
+<h1>Projeto JavaScript -Terminal de Autentificação de Senha</h1>
 
 Status: Em Desenvolvimento ⚠️
 
